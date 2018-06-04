@@ -1,0 +1,60 @@
+{ "height":5,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241, 241],
+         "height":5,
+         "name":"Capa de Patrones 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"left-up",
+ "tiledversion":"1.1.5",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"apocalypse.png",
+        "tilewidth":"160",
+        "tileheight":"160",
+        "tilecount":1000,
+            
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":1,
+ "width":5,
+ "start":
+ {
+ 	"x": 640,
+ 	"y": 500
+ },
+ "objetos":
+ [
+ 	{
+ 		"id": 100,
+ 		"cantidad": 1,
+ 		"x": 700,
+ 		"y": 640
+ 	}
+ ],
+ "enemigos":
+ [
+ 	{
+ 		"id": 1,
+ 		"x": 640,
+ 		"y": 950
+ 	},
+ 	{
+ 		"id": 1,
+ 		"x": 640,
+ 		"y": 900
+ 	}
+ ]
+}
