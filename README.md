@@ -1,5 +1,5 @@
 # Alone_2
-Juego hecho desde un archivo JSON y programación java
+Juego hecho desde un archivo JSON y programación java.
 
 Este proyecto se trata sobre un juego Java en 2d en el cual hay un personaje(avatar) que es el que controla el usuario.
 
